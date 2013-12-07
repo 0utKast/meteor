@@ -1,0 +1,11 @@
+cd ~/Documentos/Meteor/MiBiblioteca
+
+favoritos.insert({Category:"Programas"});
+
+favoritos.remove({Category:"Revistas"})
+
+"xKNPmL3bmFrtY5u8L"
+
+favoritos.remove({"_id":"dp8TZis7pRfSHAgt2"})
+
+favoritos.insert({Category:"Prensa"});
